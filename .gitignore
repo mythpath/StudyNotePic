@@ -1,0 +1,12 @@
+release
+*.tgz
+*.gz
+cmd/finch/bin/finch
+cmd/notify/bin/notify
+*/.DS_Store
+.DS_Store
+test/tool/.DS_Store
+cmd/notify/log
+cmd/notify/notify
+cmd/finch/finch
+cmd/finch/log
